@@ -31,6 +31,6 @@ public class arop
         a =  sc.nextInt();
         b =  sc.nextInt();
         c =  sc.next();
-        arithmetic(a, b, c);
+        arithmetic(a, b, c) ;
     }
 }
